@@ -1,4 +1,4 @@
-﻿Build started 7/23/2020 11:49:55 PM.
+﻿Build started 7/28/2020 6:12:43 PM.
      1>Project "D:\Project visual\TR\TR\TR.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\TR.unsuccessfulbuild" because "AlwaysCreate" was specified.
@@ -23,4 +23,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:01.36
+Time Elapsed 00:00:00.67
